@@ -1,0 +1,50 @@
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
+.navbar {
+  background-color: #082f57;
+  overflow: hidden;
+  background-color: #f1f1f1;
+  transition: 0.4s; 
+  position: fixed; 
+  width: 100%;
+  top: 0;
+  z-index: 99;
+}
+.nav-link {
+    display: inline-block;
+    position: relative;
+    color: #0087ca;
+}
+.nav-link::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #0087ca;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+}
+.nav-link:hover::after {
+    transform: scaleX(1);
+  transform-origin: bottom left;
+}
+.collapse {
+  justify-content: center;
+  
+}

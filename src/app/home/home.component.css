@@ -1,0 +1,21 @@
+.name {
+    color: #09082d;
+}
+.fa-brands,
+.fa-solid,
+.fa-twitter {
+   padding: 15px;
+   background-color:rgb(160, 165, 170);
+   box-shadow: 3px 6px 11px #6c757d;
+   color: #09082d;
+   border-radius: 50px;
+}
+.fa-brands:hover {
+    color: #6c757d;
+}
+.fa-solid:hover {
+    color: #6c757d;
+}
+.head {
+    padding: 90px 5px;
+}

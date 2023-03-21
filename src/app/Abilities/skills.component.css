@@ -1,0 +1,12 @@
+.skills {
+    font-family: 'Libre Baskerville', serif;
+    color: #0087ca;
+}
+.fa-star,
+.fa-regular {
+    font-size: 15px;
+    color: cornflowerblue;
+}
+hr {
+    color: black;
+}
