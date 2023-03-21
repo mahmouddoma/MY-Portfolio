@@ -8,7 +8,10 @@
       {
         "ignore": [
           "backface-visibility",
-          "scroll-behavior"
+          "scroll-behavior",
+          "-webkit-font-feature-settings",
+          "-webkit-text-size-adjust",
+          "-webkit-tap-highlight-color"
         ]
       }
     ],
