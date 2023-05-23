@@ -26,6 +26,7 @@
     "bootstrap": "^5.2.3",
     "crypto-browserify": "^3.12.0",
     "font-awesome": "^4.7.0",
+    "gh-pages": "^5.0.0",
     "nodemailer": "^6.9.1",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
