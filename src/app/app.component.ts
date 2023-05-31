@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, HostBinding } from '@angular/core';
 import { trigger, animate, style, query, stagger, transition, state } from '@angular/animations';
 
 
