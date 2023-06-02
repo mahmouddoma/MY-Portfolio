@@ -48,3 +48,6 @@
   justify-content: center;
   
 }
+.navbar-brand {
+  font-family: 'Dancing Script', cursive;
+}
